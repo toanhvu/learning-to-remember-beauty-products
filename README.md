@@ -128,7 +128,7 @@ If your have any suggestion or questions, please send email to toanvuhong@gmail.
 
 ## Citation
 If you find this code useful for your work, please cite our paper
-'''
+```
 @inproceedings{10.1145/3394171.3416281,
 author = {Vu, Toan H. and Dang, An and Wang, Jia-Ching},
 title = {Learning to Remember Beauty Products},
@@ -144,4 +144,4 @@ numpages = {5},
 location = {Seattle, WA, USA},
 series = {MM '20}
 }
-'''
+```
