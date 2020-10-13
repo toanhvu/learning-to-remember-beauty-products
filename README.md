@@ -125,3 +125,23 @@ python predict.py model_name ./test_data ./result/predictions.csv
 
 ## Contact
 If your have any suggestion or questions, please send email to toanvuhong@gmail.com
+
+## Citation
+If you find this code useful for your work, please cite our paper
+'''
+@inproceedings{10.1145/3394171.3416281,
+author = {Vu, Toan H. and Dang, An and Wang, Jia-Ching},
+title = {Learning to Remember Beauty Products},
+year = {2020},
+isbn = {9781450379885},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3394171.3416281},
+doi = {10.1145/3394171.3416281},
+booktitle = {Proceedings of the 28th ACM International Conference on Multimedia},
+pages = {4728–4732},
+numpages = {5},
+location = {Seattle, WA, USA},
+series = {MM '20}
+}
+'''
